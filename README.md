@@ -394,7 +394,9 @@ A：可以，小飞薯提供的是一套小红书运营自动化通用解决方�
 
 ![image-20251019182013108](README/image-20251019182013108.png)
 
-本项目Star History图表由 [star-history](https://star-history.com/) 提供，同时衷心感谢各路小伙伴的🌟Star，好项目值得被更多人看见！[![Star History Chart](https://api.star-history.com/chart?repos=Jici-Zeroten/XiaoFeiShu&type=date&legend=top-left&sealed_token=ZAxkh-O1Z5a4gLEeljLBPwCImlMv1XPhzP1VQJiINAmTogtpZu1EwTO0Ki0ZpPbJ8dKSLmNtNpI9BhmBk4QT5jVShuR7_av9_PWPv2EZ8iUl2sTLrKLBTXqXQwrL_aidvg9ZvTy7N8Mb6XnkLAl8g9-9ecRzPR3rmcRQ4d4-bFCkTvdmKCaaWitGkw_Y)](https://www.star-history.com/?repos=Jici-Zeroten%2FXiaoFeiShu&type=date&legend=top-left)
+本项目Star History图表由 [star-history](https://star-history.com/) 提供，同时衷心感谢各路小伙伴的🌟Star，好项目值得被更多人看见！
+
+![image-20260726180233963](README/image-20260726180233963.png)
 
 本项目代码质量检测与正反向评级由[fuck-u-code（逆指标）](https://github.com/Done-0/fuck-u-code/)、[pylint（正指标）](https://github.com/pylint-dev/pylint)、[radon（正指标）](https://github.com/rubik/radon)支持，最优代码不是说说而已💪！
 

@@ -394,7 +394,9 @@ A：可以，小飛薯提供的是一套小紅書運營自動化通用解決方�
 
 ![image-20251019182013108](README/image-20251019182013108.png)
 
-本專案Star History圖表由 [star-history](https://star-history.com/) 提供，同時衷心感謝各路小夥伴的🌟Star，好專案值得被更多人看見！[![Star History Chart](https://api.star-history.com/chart?repos=Jici-Zeroten/XiaoFeiShu&type=date&legend=top-left&sealed_token=ZAxkh-O1Z5a4gLEeljLBPwCImlMv1XPhzP1VQJiINAmTogtpZu1EwTO0Ki0ZpPbJ8dKSLmNtNpI9BhmBk4QT5jVShuR7_av9_PWPv2EZ8iUl2sTLrKLBTXqXQwrL_aidvg9ZvTy7N8Mb6XnkLAl8g9-9ecRzPR3rmcRQ4d4-bFCkTvdmKCaaWitGkw_Y)](https://www.star-history.com/?repos=Jici-Zeroten%2FXiaoFeiShu&type=date&legend=top-left)
+本專案Star History圖表由 [star-history](https://star-history.com/) 提供，同時衷心感謝各路小夥伴的🌟Star，好專案值得被更多人看見！
+
+![image-20260726180233963](README/image-20260726180233963.png)
 
 本專案程式碼質量檢測與正反向評級由[fuck-u-code（逆指標）](https://github.com/Done-0/fuck-u-code/)、[pylint（正指標）](https://github.com/pylint-dev/pylint)、[radon（正指標）](https://github.com/rubik/radon)支援，最優程式碼不是說說而已💪！
 
